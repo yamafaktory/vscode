@@ -9,6 +9,9 @@
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "gutter",
     "editor.scrollBeyondLastLine": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "git.enableCommitSigning": true,
