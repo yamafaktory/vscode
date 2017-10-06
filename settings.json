@@ -1,4 +1,5 @@
 {
+    "editor.autoIndent": true,
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontFamily": "Fira Code",
@@ -18,7 +19,6 @@
     "javascript.validate.enable": false,
     "search.useRipgrep": true,
     "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.fontLigatures": true,
     "terminal.integrated.fontSize": 16,
     "window.openFoldersInNewWindow": "off",
     "window.restoreFullscreen": true,
