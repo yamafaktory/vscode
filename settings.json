@@ -23,5 +23,6 @@
     "window.openFoldersInNewWindow": "off",
     "window.restoreFullscreen": true,
     "workbench.colorTheme": "Dracula",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "vscode-icons"
 }
