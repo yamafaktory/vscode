@@ -13,6 +13,7 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
+    "emmet.triggerExpansionOnTab": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "git.enableCommitSigning": true,
