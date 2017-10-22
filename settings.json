@@ -9,6 +9,7 @@
     "editor.lineNumbers": "on",
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "gutter",
+    "editor.rulers": [80],
     "editor.scrollBeyondLastLine": false,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
