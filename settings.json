@@ -27,4 +27,17 @@
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "rust.workspace_mode": true
 }
