@@ -9,7 +9,9 @@
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "gutter",
-    "editor.rulers": [80],
+    "editor.rulers": [
+        80
+    ],
     "editor.scrollBeyondLastLine": false,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
@@ -24,7 +26,7 @@
     "terminal.integrated.fontSize": 16,
     "window.openFoldersInNewWindow": "off",
     "window.restoreFullscreen": true,
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Winter is Coming (Dark)",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
     "git.autofetch": true,
@@ -39,5 +41,5 @@
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
     },
-    "rust.workspace_mode": true
+    "window.zoomLevel": 0
 }
