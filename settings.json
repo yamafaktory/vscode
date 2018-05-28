@@ -26,20 +26,15 @@
     "terminal.integrated.fontSize": 16,
     "window.openFoldersInNewWindow": "off",
     "window.restoreFullscreen": true,
-    "workbench.colorTheme": "Winter is Coming (Dark)",
+    "workbench.colorTheme": "Night Owl",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-        "suppressUpdateNotice": false,
+        "suppressShowKeyBindingsNotice": true,
         "suppressWelcomeNotice": true
     },
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "gitlens.historyExplorer.enabled": true
 }
